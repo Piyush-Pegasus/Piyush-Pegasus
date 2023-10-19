@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Piyush Kumar Srivastav
 - 🏆 Regionalist, Google Cloud, AMD and GFG Solving for India Hackathon 
 - 👀 I’m interested in Java, C++ and Python
-- 👀 I’m a frontend Web Developer
-- 🌱 I’m currently learning Cloud
+- 👀 I’m a frontend Web Developer, cloud enthusiast
+- 🌱 I’m currently learning Data Science and ML
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me mail- mesrivastava.piyush@gmail.com
 - Linkedin Profile- www.linkedin.com/in/piyush-srivastava-27b9a8240
