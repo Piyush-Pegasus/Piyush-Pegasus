@@ -2,10 +2,10 @@
 - 🏆 Regionalist, Google Cloud, AMD and GFG Solving for India Hackathon 
 - 👀 I’m interested in Java, C++,SQL and Python
 - 👀 I’m a Backend Web Developer, Cloud enthusiast and ML enthusiast
-- •	Expertise area- Data Structures and Algorithms, Backend Development, Generative AI, Machine learning.
-- •	CS Fundamentals: Object Oriented Programming, DBMS, Operating System
-- •	Technologies- Git/GitHub, NumPy, Pandas, Django, Django Rest Framework, REST APIs, Docker, Selenium, AWS, MySQL, CI/CD pipeline.
-- •	Soft Skills-Communication, Collaboration, Teamwork, Commitment, Problem-Solving, Quick Learner 
+- Expertise area- Data Structures and Algorithms, Backend Development, Generative AI, Machine learning.
+- CS Fundamentals: Object Oriented Programming, DBMS, Operating System
+- Technologies- Git/GitHub, NumPy, Pandas, Django, Django Rest Framework, REST APIs, Docker, Selenium, AWS, MySQL, CI/CD pipeline.
+- Soft Skills-Communication, Collaboration, Teamwork, Commitment, Problem-Solving, Quick Learner 
 
 - 💞️ I’m looking for internship/ full time opportunities.
 - 📫 How to reach me mail- mesrivastava.piyush@gmail.com or mesrivastava.piyush11@gmail.com
